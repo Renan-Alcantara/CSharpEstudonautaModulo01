@@ -1,0 +1,8 @@
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A11A-Temporizador\bin\Debug\M01A11A-Temporizador.exe.config
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A11A-Temporizador\bin\Debug\M01A11A-Temporizador.exe
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A11A-Temporizador\bin\Debug\M01A11A-Temporizador.pdb
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A11A-Temporizador\obj\Debug\M01A11A-Temporizador.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A11A-Temporizador\obj\Debug\M01A11A-Temporizador.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A11A-Temporizador\obj\Debug\M01A11A-Temporizador.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A11A-Temporizador\obj\Debug\M01A11A-Temporizador.exe
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A11A-Temporizador\obj\Debug\M01A11A-Temporizador.pdb

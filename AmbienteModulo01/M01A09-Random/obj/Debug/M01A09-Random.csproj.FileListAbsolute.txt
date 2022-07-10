@@ -1,0 +1,8 @@
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A09-Random\bin\Debug\M01A09-Random.exe.config
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A09-Random\bin\Debug\M01A09-Random.exe
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A09-Random\bin\Debug\M01A09-Random.pdb
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A09-Random\obj\Debug\M01A09-Random.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A09-Random\obj\Debug\M01A09-Random.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A09-Random\obj\Debug\M01A09-Random.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A09-Random\obj\Debug\M01A09-Random.exe
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A09-Random\obj\Debug\M01A09-Random.pdb

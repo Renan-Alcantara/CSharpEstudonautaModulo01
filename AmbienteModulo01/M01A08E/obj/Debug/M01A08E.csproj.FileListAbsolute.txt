@@ -1,0 +1,8 @@
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A08E\obj\Debug\M01A08E.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A08E\obj\Debug\M01A08E.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A08E\obj\Debug\M01A08E.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A08E\bin\Debug\M01A08E.exe.config
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A08E\bin\Debug\M01A08E.exe
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A08E\bin\Debug\M01A08E.pdb
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A08E\obj\Debug\M01A08E.exe
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A08E\obj\Debug\M01A08E.pdb

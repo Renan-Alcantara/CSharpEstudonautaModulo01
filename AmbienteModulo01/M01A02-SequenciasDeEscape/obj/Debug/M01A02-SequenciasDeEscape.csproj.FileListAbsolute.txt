@@ -1,0 +1,8 @@
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A02-SequenciasDeEscape\bin\Debug\M01A02-SequenciasDeEscape.exe.config
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A02-SequenciasDeEscape\bin\Debug\M01A02-SequenciasDeEscape.exe
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A02-SequenciasDeEscape\bin\Debug\M01A02-SequenciasDeEscape.pdb
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A02-SequenciasDeEscape\obj\Debug\M01A02-SequenciasDeEscape.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A02-SequenciasDeEscape\obj\Debug\M01A02-SequenciasDeEscape.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A02-SequenciasDeEscape\obj\Debug\M01A02-SequenciasDeEscape.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A02-SequenciasDeEscape\obj\Debug\M01A02-SequenciasDeEscape.exe
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A02-SequenciasDeEscape\obj\Debug\M01A02-SequenciasDeEscape.pdb

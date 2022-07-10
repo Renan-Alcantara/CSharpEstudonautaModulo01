@@ -1,0 +1,8 @@
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A10-DateTime\bin\Debug\M01A10-DateTime.exe.config
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A10-DateTime\bin\Debug\M01A10-DateTime.exe
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A10-DateTime\bin\Debug\M01A10-DateTime.pdb
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A10-DateTime\obj\Debug\M01A10-DateTime.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A10-DateTime\obj\Debug\M01A10-DateTime.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A10-DateTime\obj\Debug\M01A10-DateTime.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A10-DateTime\obj\Debug\M01A10-DateTime.exe
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A10-DateTime\obj\Debug\M01A10-DateTime.pdb

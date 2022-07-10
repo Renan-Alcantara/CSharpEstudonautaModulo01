@@ -1,0 +1,11 @@
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A11B-TempForm\obj\Debug\M01A11B-TempForm.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A11B-TempForm\obj\Debug\M01A11B-TempForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A11B-TempForm\obj\Debug\M01A11B_TempForm.Form1.resources
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A11B-TempForm\obj\Debug\M01A11B_TempForm.Properties.Resources.resources
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A11B-TempForm\obj\Debug\M01A11B-TempForm.csproj.GenerateResource.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A11B-TempForm\obj\Debug\M01A11B-TempForm.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A11B-TempForm\bin\Debug\M01A11B-TempForm.exe.config
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A11B-TempForm\bin\Debug\M01A11B-TempForm.exe
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A11B-TempForm\bin\Debug\M01A11B-TempForm.pdb
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A11B-TempForm\obj\Debug\M01A11B-TempForm.exe
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A11B-TempForm\obj\Debug\M01A11B-TempForm.pdb

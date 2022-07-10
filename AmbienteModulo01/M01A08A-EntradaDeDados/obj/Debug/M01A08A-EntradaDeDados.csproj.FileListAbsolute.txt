@@ -1,0 +1,8 @@
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A08A-EntradaDeDados\bin\Debug\M01A08A-EntradaDeDados.exe.config
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A08A-EntradaDeDados\bin\Debug\M01A08A-EntradaDeDados.exe
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A08A-EntradaDeDados\bin\Debug\M01A08A-EntradaDeDados.pdb
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A08A-EntradaDeDados\obj\Debug\M01A08A-EntradaDeDados.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A08A-EntradaDeDados\obj\Debug\M01A08A-EntradaDeDados.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A08A-EntradaDeDados\obj\Debug\M01A08A-EntradaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A08A-EntradaDeDados\obj\Debug\M01A08A-EntradaDeDados.exe
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A08A-EntradaDeDados\obj\Debug\M01A08A-EntradaDeDados.pdb

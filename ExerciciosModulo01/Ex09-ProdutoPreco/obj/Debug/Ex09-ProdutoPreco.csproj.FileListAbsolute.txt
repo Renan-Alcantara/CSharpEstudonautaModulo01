@@ -1,0 +1,8 @@
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex09-ProdutoPreco\bin\Debug\Ex09-ProdutoPreco.exe.config
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex09-ProdutoPreco\bin\Debug\Ex09-ProdutoPreco.exe
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex09-ProdutoPreco\bin\Debug\Ex09-ProdutoPreco.pdb
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex09-ProdutoPreco\obj\Debug\Ex09-ProdutoPreco.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex09-ProdutoPreco\obj\Debug\Ex09-ProdutoPreco.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex09-ProdutoPreco\obj\Debug\Ex09-ProdutoPreco.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex09-ProdutoPreco\obj\Debug\Ex09-ProdutoPreco.exe
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex09-ProdutoPreco\obj\Debug\Ex09-ProdutoPreco.pdb

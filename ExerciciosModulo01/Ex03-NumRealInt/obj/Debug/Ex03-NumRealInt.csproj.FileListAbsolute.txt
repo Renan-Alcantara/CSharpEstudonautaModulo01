@@ -1,0 +1,8 @@
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex03-NumRealInt\obj\Debug\Ex03-NumRealInt.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex03-NumRealInt\obj\Debug\Ex03-NumRealInt.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex03-NumRealInt\obj\Debug\Ex03-NumRealInt.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex03-NumRealInt\bin\Debug\Ex03-NumRealInt.exe.config
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex03-NumRealInt\bin\Debug\Ex03-NumRealInt.exe
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex03-NumRealInt\bin\Debug\Ex03-NumRealInt.pdb
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex03-NumRealInt\obj\Debug\Ex03-NumRealInt.exe
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex03-NumRealInt\obj\Debug\Ex03-NumRealInt.pdb

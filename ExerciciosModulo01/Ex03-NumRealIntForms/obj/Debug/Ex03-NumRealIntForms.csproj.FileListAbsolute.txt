@@ -1,0 +1,11 @@
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex03-NumRealIntForms\bin\Debug\Ex03-NumRealIntForms.exe.config
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex03-NumRealIntForms\bin\Debug\Ex03-NumRealIntForms.exe
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex03-NumRealIntForms\bin\Debug\Ex03-NumRealIntForms.pdb
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex03-NumRealIntForms\obj\Debug\Ex03-NumRealIntForms.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex03-NumRealIntForms\obj\Debug\Ex03-NumRealIntForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex03-NumRealIntForms\obj\Debug\Ex03_NumRealIntForms.Form1.resources
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex03-NumRealIntForms\obj\Debug\Ex03_NumRealIntForms.Properties.Resources.resources
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex03-NumRealIntForms\obj\Debug\Ex03-NumRealIntForms.csproj.GenerateResource.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex03-NumRealIntForms\obj\Debug\Ex03-NumRealIntForms.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex03-NumRealIntForms\obj\Debug\Ex03-NumRealIntForms.exe
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex03-NumRealIntForms\obj\Debug\Ex03-NumRealIntForms.pdb

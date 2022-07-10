@@ -1,0 +1,8 @@
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A04-TiposPrimitivos\bin\Debug\M01A04-TiposPrimitivos.exe.config
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A04-TiposPrimitivos\bin\Debug\M01A04-TiposPrimitivos.exe
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A04-TiposPrimitivos\bin\Debug\M01A04-TiposPrimitivos.pdb
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A04-TiposPrimitivos\obj\Debug\M01A04-TiposPrimitivos.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A04-TiposPrimitivos\obj\Debug\M01A04-TiposPrimitivos.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A04-TiposPrimitivos\obj\Debug\M01A04-TiposPrimitivos.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A04-TiposPrimitivos\obj\Debug\M01A04-TiposPrimitivos.exe
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A04-TiposPrimitivos\obj\Debug\M01A04-TiposPrimitivos.pdb

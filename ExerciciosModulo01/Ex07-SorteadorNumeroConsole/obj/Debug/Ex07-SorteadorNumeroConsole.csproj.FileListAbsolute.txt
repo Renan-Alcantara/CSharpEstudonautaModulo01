@@ -1,0 +1,8 @@
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex07-SorteadorNumeroConsole\bin\Debug\Ex07-SorteadorNumeroConsole.exe.config
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex07-SorteadorNumeroConsole\bin\Debug\Ex07-SorteadorNumeroConsole.exe
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex07-SorteadorNumeroConsole\bin\Debug\Ex07-SorteadorNumeroConsole.pdb
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex07-SorteadorNumeroConsole\obj\Debug\Ex07-SorteadorNumeroConsole.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex07-SorteadorNumeroConsole\obj\Debug\Ex07-SorteadorNumeroConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex07-SorteadorNumeroConsole\obj\Debug\Ex07-SorteadorNumeroConsole.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex07-SorteadorNumeroConsole\obj\Debug\Ex07-SorteadorNumeroConsole.exe
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex07-SorteadorNumeroConsole\obj\Debug\Ex07-SorteadorNumeroConsole.pdb

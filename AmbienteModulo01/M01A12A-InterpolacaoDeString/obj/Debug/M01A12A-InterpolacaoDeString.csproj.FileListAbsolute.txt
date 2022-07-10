@@ -1,0 +1,8 @@
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A12A-InterpolacaoDeString\bin\Debug\M01A12A-InterpolacaoDeString.exe.config
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A12A-InterpolacaoDeString\bin\Debug\M01A12A-InterpolacaoDeString.exe
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A12A-InterpolacaoDeString\bin\Debug\M01A12A-InterpolacaoDeString.pdb
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A12A-InterpolacaoDeString\obj\Debug\M01A12A-InterpolacaoDeString.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A12A-InterpolacaoDeString\obj\Debug\M01A12A-InterpolacaoDeString.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A12A-InterpolacaoDeString\obj\Debug\M01A12A-InterpolacaoDeString.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A12A-InterpolacaoDeString\obj\Debug\M01A12A-InterpolacaoDeString.exe
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A12A-InterpolacaoDeString\obj\Debug\M01A12A-InterpolacaoDeString.pdb

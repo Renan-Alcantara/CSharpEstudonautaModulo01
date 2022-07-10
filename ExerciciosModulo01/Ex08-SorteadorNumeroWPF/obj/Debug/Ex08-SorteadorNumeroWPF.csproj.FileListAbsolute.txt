@@ -1,0 +1,16 @@
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex08-SorteadorNumeroWPF\bin\Debug\Ex08-SorteadorNumeroWPF.exe.config
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex08-SorteadorNumeroWPF\bin\Debug\Ex08-SorteadorNumeroWPF.exe
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex08-SorteadorNumeroWPF\bin\Debug\Ex08-SorteadorNumeroWPF.pdb
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex08-SorteadorNumeroWPF\obj\Debug\Ex08-SorteadorNumeroWPF.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex08-SorteadorNumeroWPF\obj\Debug\Ex08-SorteadorNumeroWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex08-SorteadorNumeroWPF\obj\Debug\MainWindow.g.cs
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex08-SorteadorNumeroWPF\obj\Debug\App.g.cs
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex08-SorteadorNumeroWPF\obj\Debug\Ex08-SorteadorNumeroWPF_MarkupCompile.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex08-SorteadorNumeroWPF\obj\Debug\Ex08-SorteadorNumeroWPF_MarkupCompile.lref
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex08-SorteadorNumeroWPF\obj\Debug\MainWindow.baml
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex08-SorteadorNumeroWPF\obj\Debug\Ex08-SorteadorNumeroWPF.g.resources
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex08-SorteadorNumeroWPF\obj\Debug\Ex08_SorteadorNumeroWPF.Properties.Resources.resources
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex08-SorteadorNumeroWPF\obj\Debug\Ex08-SorteadorNumeroWPF.csproj.GenerateResource.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex08-SorteadorNumeroWPF\obj\Debug\Ex08-SorteadorNumeroWPF.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex08-SorteadorNumeroWPF\obj\Debug\Ex08-SorteadorNumeroWPF.exe
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex08-SorteadorNumeroWPF\obj\Debug\Ex08-SorteadorNumeroWPF.pdb

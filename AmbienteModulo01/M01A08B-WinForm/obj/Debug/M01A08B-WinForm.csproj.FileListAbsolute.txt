@@ -1,0 +1,11 @@
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A08B-WinForm\bin\Debug\M01A08B-WinForm.exe.config
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A08B-WinForm\bin\Debug\M01A08B-WinForm.exe
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A08B-WinForm\bin\Debug\M01A08B-WinForm.pdb
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A08B-WinForm\obj\Debug\M01A08B-WinForm.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A08B-WinForm\obj\Debug\M01A08B-WinForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A08B-WinForm\obj\Debug\M01A08B_WinForm.Properties.Resources.resources
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A08B-WinForm\obj\Debug\M01A08B-WinForm.csproj.GenerateResource.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A08B-WinForm\obj\Debug\M01A08B-WinForm.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A08B-WinForm\obj\Debug\M01A08B-WinForm.exe
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A08B-WinForm\obj\Debug\M01A08B-WinForm.pdb
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\AmbienteModulo01\M01A08B-WinForm\obj\Debug\M01A08B_WinForm.Saudação.resources

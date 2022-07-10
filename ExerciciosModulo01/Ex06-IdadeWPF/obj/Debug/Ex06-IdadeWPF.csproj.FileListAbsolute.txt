@@ -1,0 +1,16 @@
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex06-IdadeWPF\bin\Debug\Ex06-IdadeWPF.exe.config
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex06-IdadeWPF\bin\Debug\Ex06-IdadeWPF.exe
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex06-IdadeWPF\bin\Debug\Ex06-IdadeWPF.pdb
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex06-IdadeWPF\obj\Debug\Ex06-IdadeWPF.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex06-IdadeWPF\obj\Debug\Ex06-IdadeWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex06-IdadeWPF\obj\Debug\MainWindow.g.cs
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex06-IdadeWPF\obj\Debug\App.g.cs
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex06-IdadeWPF\obj\Debug\Ex06-IdadeWPF_MarkupCompile.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex06-IdadeWPF\obj\Debug\Ex06-IdadeWPF_MarkupCompile.lref
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex06-IdadeWPF\obj\Debug\MainWindow.baml
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex06-IdadeWPF\obj\Debug\Ex06-IdadeWPF.g.resources
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex06-IdadeWPF\obj\Debug\Ex06_IdadeWPF.Properties.Resources.resources
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex06-IdadeWPF\obj\Debug\Ex06-IdadeWPF.csproj.GenerateResource.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex06-IdadeWPF\obj\Debug\Ex06-IdadeWPF.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex06-IdadeWPF\obj\Debug\Ex06-IdadeWPF.exe
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex06-IdadeWPF\obj\Debug\Ex06-IdadeWPF.pdb

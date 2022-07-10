@@ -1,0 +1,8 @@
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex01-BrasilBrasileiroConsole\bin\Debug\Ex01-BrasilBrasileiroConsole.exe.config
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex01-BrasilBrasileiroConsole\bin\Debug\Ex01-BrasilBrasileiroConsole.exe
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex01-BrasilBrasileiroConsole\bin\Debug\Ex01-BrasilBrasileiroConsole.pdb
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex01-BrasilBrasileiroConsole\obj\Debug\Ex01-BrasilBrasileiroConsole.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex01-BrasilBrasileiroConsole\obj\Debug\Ex01-BrasilBrasileiroConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex01-BrasilBrasileiroConsole\obj\Debug\Ex01-BrasilBrasileiroConsole.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex01-BrasilBrasileiroConsole\obj\Debug\Ex01-BrasilBrasileiroConsole.exe
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex01-BrasilBrasileiroConsole\obj\Debug\Ex01-BrasilBrasileiroConsole.pdb

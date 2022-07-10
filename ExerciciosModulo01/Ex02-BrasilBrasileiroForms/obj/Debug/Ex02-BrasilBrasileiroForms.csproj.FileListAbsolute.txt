@@ -1,0 +1,11 @@
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex02-BrasilBrasileiroForms\bin\Debug\Ex02-BrasilBrasileiroForms.exe.config
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex02-BrasilBrasileiroForms\bin\Debug\Ex02-BrasilBrasileiroForms.exe
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex02-BrasilBrasileiroForms\bin\Debug\Ex02-BrasilBrasileiroForms.pdb
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex02-BrasilBrasileiroForms\obj\Debug\Ex02-BrasilBrasileiroForms.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex02-BrasilBrasileiroForms\obj\Debug\Ex02-BrasilBrasileiroForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex02-BrasilBrasileiroForms\obj\Debug\Ex02_BrasilBrasileiroForms.Form1.resources
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex02-BrasilBrasileiroForms\obj\Debug\Ex02_BrasilBrasileiroForms.Properties.Resources.resources
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex02-BrasilBrasileiroForms\obj\Debug\Ex02-BrasilBrasileiroForms.csproj.GenerateResource.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex02-BrasilBrasileiroForms\obj\Debug\Ex02-BrasilBrasileiroForms.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex02-BrasilBrasileiroForms\obj\Debug\Ex02-BrasilBrasileiroForms.exe
+C:\Users\renan\Desktop\Meus Codigos\C#\Aulas\ExerciciosModulo01\Ex02-BrasilBrasileiroForms\obj\Debug\Ex02-BrasilBrasileiroForms.pdb
